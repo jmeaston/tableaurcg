@@ -16,29 +16,7 @@ Site to show embedded Tableau sites
 
 
     <link rel="pingback" href="https://blog.rappi.com/xmlrpc.php">
-    <title>Blog internacional de Rappi - ¡Corremos por ti!</title>
-
-    <!-- This site is optimized with the Yoast SEO plugin v10.0 - https://yoast.com/wordpress/plugins/seo/ -->
-    <meta name="description"
-        content="Versión internacional del blog de Rappi, la app que te lleva cualquier cosa a domicilio.">
-    <link rel="canonical" href="https://blog.rappi.com/">
-    <link rel="next" href="https://blog.rappi.com/page/2/">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Blog internacional de Rappi - ¡Corremos por ti!">
-    <meta property="og:description"
-        content="Versión internacional del blog de Rappi, la app que te lleva cualquier cosa a domicilio.">
-    <meta property="og:url" content="https://blog.rappi.com/">
-    <meta property="og:site_name" content="Blog de Rappi">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:description"
-        content="Versión internacional del blog de Rappi, la app que te lleva cualquier cosa a domicilio.">
-    <meta name="twitter:title" content="Blog internacional de Rappi - ¡Corremos por ti!">
-    <script
-        type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://blog.rappi.com/#website","url":"https://blog.rappi.com/","name":"Blog de Rappi","potentialAction":{"@type":"SearchAction","target":"https://blog.rappi.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-    <script
-        type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://blog.rappi.com/","sameAs":[],"@id":"https://blog.rappi.com/#organization","name":"Rappi","logo":"https://blog.rappi.com/wp-content/uploads/2018/06/rappi-logo.png"}</script>
-    <!-- / Yoast SEO plugin. -->
+    <title>Helpful Tableau Assets</title>
 
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//s.w.org">
@@ -63,30 +41,9 @@ Site to show embedded Tableau sites
             padding: 0 !important
         }
     </style>
-    <link rel="stylesheet" id="wp-block-library-css"
-        href="https://blog.rappi.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.13" type="text/css"
-        media="all">
-    <link rel="stylesheet" id="elegante-slider-css"
-        href="https://blog.rappi.com/wp-content/themes/elegante/inc/css/slider.css?ver=5.1.13" type="text/css"
-        media="all">
-    <link rel="stylesheet" id="elegante-carousel-css"
-        href="https://blog.rappi.com/wp-content/themes/elegante/inc/css/carousel.css?ver=5.1.13" type="text/css"
-        media="all">
-    <link rel="stylesheet" id="font-awesome-css"
-        href="https://blog.rappi.com/wp-content/themes/elegante/inc/css/font-awesome.min.css?ver=5.1.13" type="text/css"
-        media="all">
-    <link rel="stylesheet" id="normalize-css"
-        href="https://blog.rappi.com/wp-content/themes/elegante/inc/css/normalize.css?ver=5.1.13" type="text/css"
-        media="all">
     <link rel="stylesheet" id="elegante-fonts-css"
         href="https://fonts.googleapis.com/css?family=Raleway%3A700italic%2C400%2C800%2C600%7COpen+Sans%3A700italic%2C400%2C800%2C600&amp;subset=latin%2Clatin-ext"
         type="text/css" media="all">
-    <link rel="stylesheet" id="elegante-style-css"
-        href="https://blog.rappi.com/wp-content/themes/elegante/style.css?ver=5.1.13" type="text/css" media="all">
-    <script type="text/javascript" src="https://blog.rappi.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-    <script type="text/javascript"
-        src="https://blog.rappi.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-    <link rel="https://api.w.org/" href="https://blog.rappi.com/wp-json/">
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.rappi.com/xmlrpc.php?rsd">
     <link rel="wlwmanifest" type="application/wlwmanifest+xml"
         href="https://blog.rappi.com/wp-includes/wlwmanifest.xml">
