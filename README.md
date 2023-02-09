@@ -7,7 +7,7 @@ Site to show embedded Tableau sites
        <div class="elegante-post-centered">
             <article id="post-11317"
                 class="elegante-post elegante-post-regular elegante-boxed post-11317 post type-post status-publish format-standard hentry category-otros tag-aliado tag-rappi-aliado tag-registrarme tag-registro tag-restaurante tag-restaurantes">
-                <p class="elegante-post-date"><i class="fa fa-clock-o"></i>02/09/2023</p>
+                <p class="elegante-post-date"><i class="fa fa-clock-o"></i>Last Updated: 02/09/2023</p>
                 <h2 class="elegante-post-title"><a
                         href="#" rel="bookmark">Tableau Helpful Get Started Documents</a></h2>
 
@@ -17,7 +17,7 @@ Site to show embedded Tableau sites
                 </header><!-- .elegante-post-header -->
                 <div class="elegante-post-content">
 
-                    <p>The main goal of this page is to help your decision makers at your company make an informed decision on the journey to becoming a data-driven company.</p>
+                    <p>The goal of this page is to help decision makers at your company make an informed decision on the journey to becoming a data-driven company.</p>
                         <p>My name is Julie Easton and I am a Solutions Engineer for Tableau's Retail unit. I have included a lot of topics below but will only cover the most relevant ones to your business challenges during our discussions. Feel free to dive in to the topics available here that will provide you deeper insights into how leveraging Tableau can help your company evolve into a data-driven organization.</p>                                      
                     <h2 ><a href="index.html#embed" rel="bookmark">1 - Embedded - Building a data product</a></h2>
                     <h2 ><a href="index.html#maps" rel="bookmark">2 - Building Maps</a></h2>
