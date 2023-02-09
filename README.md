@@ -18,7 +18,7 @@ Site to show embedded Tableau sites
                 <div class="elegante-post-content">
 
                     <p>The main goal of this page is to help your decision makers at your company make an informed decision on the journey to becoming a data-driven company.</p>
-                        <p>My name is Julie Easton and I am a Solutions Engineer for Tableau's Retail unit. I have included topics and will only cover the most important ones during our discussions; however, there are many other topics available here that will allow you to dig deeper for more details.</p>                                      
+                        <p>My name is Julie Easton and I am a Solutions Engineer for Tableau's Retail unit. I have included a lot of topics below but will only cover the most relevant ones to your business challenges during our discussions. Feel free to dive in to the topics available here that will provide you deeper insights into how leveraging Tableau can help your company evolve into a data-driven organization.</p>                                      
                     <h2 ><a href="index.html#embed" rel="bookmark">1 - Embedded - Building a data product</a></h2>
                     <h2 ><a href="index.html#maps" rel="bookmark">2 - Building Maps</a></h2>
                     <h2 ><a href="index.html#community" rel="bookmark">3 - Tableau Community</a></h2>
