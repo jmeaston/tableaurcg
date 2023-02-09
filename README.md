@@ -7,7 +7,7 @@ Site to show embedded Tableau sites
        <div class="elegante-post-centered">
             <article id="post-11317"
                 class="elegante-post elegante-post-regular elegante-boxed post-11317 post type-post status-publish format-standard hentry category-otros tag-aliado tag-rappi-aliado tag-registrarme tag-registro tag-restaurante tag-restaurantes">
-                <p class="elegante-post-date"><i class="fa fa-clock-o"></i>29/05/2022</p>
+                <p class="elegante-post-date"><i class="fa fa-clock-o"></i>02/09/2023</p>
                 <h2 class="elegante-post-title"><a
                         href="#" rel="bookmark">Tableau Helpful Get Started Documents</a></h2>
 
@@ -17,9 +17,8 @@ Site to show embedded Tableau sites
                 </header><!-- .elegante-post-header -->
                 <div class="elegante-post-content">
 
-                    <p>The main goal of this presentation is to help Rappi make an informed decision on the journey to becoming a data-driven company...</p>
-                        <p>Our presentation has many topics and we will only cover the most important ones during the live presentation and there are many other topics available here on this hotsite to allow you to dig deeper for more details.</p>
-                                      
+                    <p>The main goal of this page is to help your decision makers at your company make an informed decision on the journey to becoming a data-driven company.</p>
+                        <p>My name is Julie Easton and I am a Solutions Engineer for Tableau's Retail unit. I have included topics and will only cover the most important ones during our discussions; however, there are many other topics available here that will allow you to dig deeper for more details.</p>                                      
                     <h2 ><a href="index.html#embed" rel="bookmark">1 - Embedded - Building a data product</a></h2>
                     <h2 ><a href="index.html#maps" rel="bookmark">2 - Building Maps</a></h2>
                     <h2 ><a href="index.html#community" rel="bookmark">3 - Tableau Community</a></h2>
@@ -31,19 +30,10 @@ Site to show embedded Tableau sites
                     <h2><a href="index.html#culture" rel="bookmark">9 - Why invest in Data Culture</a></h2>
                     <h2><a href="index.html#accelerator" rel="bookmark">10 - Tableau Accelerators</a></h2>
                     <h2><a href="index.html#mvp" rel="bookmark">11 - Accelerators and a MVP example</a></h2>
-                    
-
-                    
-                    
-                    
-
-
-
-                </div>
+                 </div>
 
             </article><!-- .elegante-post -->
         </div>
-
 
         <div class="elegante-post-centered" >
             <a name="Embed"></a>
@@ -52,9 +42,7 @@ Site to show embedded Tableau sites
                 <p class="elegante-post-date"  ><i class="fa fa-clock-o"></i>18/05/2022</p>
                 <h2 class="elegante-post-title"><a
                         href="https://blog.rappi.com/ventajas-de-tener-tu-restaurante-en-rappi/" rel="bookmark">Building a data product - Embed Tableau into apps or Webpages</a></h2>
-
                 <header class="elegante-post-header">
-
 
                 </header><!-- .elegante-post-header -->
                 <div class="elegante-post-content">
