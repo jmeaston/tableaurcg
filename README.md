@@ -9,7 +9,7 @@ Site to show embedded Tableau sites
                 class="elegante-post elegante-post-regular elegante-boxed post-11317 post type-post status-publish format-standard hentry category-otros tag-aliado tag-rappi-aliado tag-registrarme tag-registro tag-restaurante tag-restaurantes">
                 <p class="elegante-post-date"><i class="fa fa-clock-o"></i>29/05/2022</p>
                 <h2 class="elegante-post-title"><a
-                        href="#" rel="bookmark">Custom Demo for Rappi</a></h2>
+                        href="#" rel="bookmark">Tableau Helpful Get Started Documents</a></h2>
 
                 <header class="elegante-post-header">
 
