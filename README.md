@@ -47,10 +47,9 @@ Site to show embedded Tableau sites
                 </header><!-- .elegante-post-header -->
                 <div class="elegante-post-content">
 
-                    <p>A good business dashboard informs with a glance. A great business dashboard combines high performance and ease of use to let anybody get data-driven answers to their deeper questions. Building dashboards with Tableau allows even non-technical users to create interactive, real-time visualizations in minutes.
-                        In just a few clicks, they can combine data sources, add filters, and drill down into specific information. Sharing a dashboard requires no programming, whether it’s on Tableau Server, Tableau Online, or any portal or web page....</p>
-                        <p>You can embed interactive Tableau views and dashboards into web pages, blogs, wiki pages, web applications, and intranet portals. Embedded views update as the underlying data changes, or as their workbooks are updated on Tableau Server or Tableau Online. </p>
-                      
+                    <p>A good business dashboard informs with a glance. A great business dashboard combines high performance and ease of use to arm any user with data-driven insights to their business challenges. Building dashboards with Tableau allows even the most non-technical user to create interactive, real-time visualizations in minutes.
+                        In just a few clicks, users can combine data sources, add filters, and drill down into specific information. Sharing a dashboard requires no programming, whether it’s deployed on Tableau Server, Tableau Cloud, or embedded in a portal or web page.</p>
+                        <p>Tableau views and dashboards can be embedded into web pages, blogs, wiki pages, web applications, and intranet portals. Embedded views update as the underlying data changes or as their workbooks are updated on Tableau Server or Tableau Cloud.</p>
 
                     <footer class="elegante-post-footer">
 
@@ -58,9 +57,7 @@ Site to show embedded Tableau sites
                             class="elegante-read-more elegante-button">Read More about Embed</a>
 
                         <ul class="elegante-post-meta">
-
-
-                            
+               
                         </ul><!-- .elegante-post-meta -->
 
                     </footer><!-- .elegante-post-footer -->
@@ -72,12 +69,9 @@ Site to show embedded Tableau sites
 
         
         <div style="text-align: center;">
-            <div style="display: inline-block; ">
-                
+            <div style="display: inline-block; ">              
             <div id="vizContainer0" ></div>
             </div></div>
-
-
                     
         <div class="elegante-post-centered">
             <article id="post-10428"
@@ -88,8 +82,6 @@ Site to show embedded Tableau sites
 
                 <header class="elegante-post-header">
              
-
-
                 </header><!-- .elegante-post-header -->
                 <div class="elegante-post-content">
 
